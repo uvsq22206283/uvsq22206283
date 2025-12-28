@@ -79,13 +79,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uvsq22206283&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF7&icon_color=37BCF7" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uvsq22206283&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=37BCF7&icon_color=37BCF7" height="160" alt="Languages" />
-</div>
-
-<br/>
 <br/>
 
 <div align="center">
