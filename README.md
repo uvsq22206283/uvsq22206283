@@ -1,86 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Ayoub%20Ourimi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Master%20DataScale%20%7C%20Data%20Engineer&descAlignY=60&descSize=20&fontColor=2E91E6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=AYOUB%20OURIMI&fontSize=80&fontAlignY=45&desc=DATA%20ENGINEER%20%2F%20SCIENTIST&descAlignY=70&descSize=20&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
-<br/>
+<h3 align="center">👨‍💻 User Profile Loaded:</h3>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="center">
-      <h3 align="left">👨‍💻 About Me</h3>
-      <br>
-      <ul>
-        <li>🎓 <strong>Master Student:</strong> Specialized in <strong>Large-Scale Data Management (DataScale)</strong> at <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>.</li>
-        <br>
-        <li>🔭 <strong>Focus:</strong> Building scalable data pipelines, Big Data architectures, and NLP models.</li>
-        <br>
-        <li>🧠 <strong>Mindset:</strong> Turning complex data into actionable insights.</li>
-        <br>
-        <li>⚡ <strong>Offline:</strong> Music digger 🎵, World traveler ✈️, and Sports addict ⚽.</li>
-      </ul>
-      <br>
-      <a href="mailto:viaourimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-      <a href="https://www.linkedin.com/in/ayoub-ourimi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    </td>
-    <td width="45%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="coding" />
-    </td>
-  </tr>
-</table>
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Ayoub Ourimi"
+        self.education = "Master DataScale (Paris-Saclay)"
+        self.focus = ["Big Data Architectures", "NLP & LLMs", "Scalable Pipelines"]
+        
+    def get_stack(self):
+        return {
+            "core": ["Python", "Java", "Rust", "R"],
+            "data": ["Pandas", "TensorFlow", "Scikit-Learn", "PL/SQL"],
+            "tools": ["Docker", "Git", "Linux", "PowerBI"]
+        }
 
-<br/>
-<br/>
+    def lifestyle(self):
+        return ["Music Digger 🎵", "World Traveler ✈️", "Sports Addict ⚽"]
 
-<h2 align="center">🚀 Technical Arsenal</h2>
-
+# Ready to collaborate?
+contact = "viaourimi@gmail.com"
+linkedin = "[linkedin.com/in/ayoub-ourimi](https://linkedin.com/in/ayoub-ourimi)"
 <div align="center">
-  <table>
-    <tr style="border: none;">
-      <td align="center" width="120" style="border: none;"><strong>Languages</strong></td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python,java,rust,r,bash" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" width="120" style="border: none;"><strong>Data & AI</strong></td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" width="120" style="border: none;"><strong>Databases</strong></td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mysql" />
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" width="120" style="border: none;"><strong>Tools</strong></td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=git,docker,linux,latex" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
 
-<br/>
-<br/>
+<a href="mailto:viaourimi@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Send_Email-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dred%26color%3D0D1117" alt="Gmail"/> </a> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/ayoub-ourimi/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect_LinkedIn-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D0077B5%26color%3D0D1117" alt="LinkedIn"/> </a> </div>
 
-<h2 align="center">⚡ GitHub Activity</h2>
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D0D1117%26height%3D50%26section%3Dheader%26text%3DSYSTEM%2520ARCHITECTURE%26fontSize%3D25%26fontColor%3D37BCF7%26animation%3DfadeIn"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsq22206283&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF7&fire=37BCF7&currStreakLabel=37BCF7" alt="Streak" />
-</div>
 
-<br/>
-<br/>
+<table> <tr> <td align="center" width="100"><strong>Backend</strong></td> <td align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,rust,bash%26theme%3Ddark" /></td> </tr> <tr> <td align="center" width="100"><strong>Data & AI</strong></td> <td align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,sklearn,pandas,r%26theme%3Ddark" /></td> </tr> <tr> <td align="center" width="100"><strong>Storage</strong></td> <td align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,postgres,mongo%26theme%3Ddark" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Oracle-F80000%3Fstyle%3Dflat-square%26logo%3Doracle%26logoColor%3Dwhite" height="40"/> </td> </tr> <tr> <td align="center" width="100"><strong>DevOps</strong></td> <td align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,git,linux,latex%26theme%3Ddark" /></td> </tr> </table>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=uvsq22206283&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
-</div>
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D0D1117%26height%3D50%26section%3Dheader%26text%3DPERFORMANCE%2520METRICS%26fontSize%3D25%26fontColor%3DF80058%26animation%3DfadeIn"/>
+
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Duvsq22206283%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0D1117" alt="Streak" />
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Duvsq22206283%26show_icons%3Dtrue%26locale%3Den%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Stats" /> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Duvsq22206283%26label%3DSYSTEM%2520VIEWS%26color%3Dred%26style%3Dfor-the-badge" alt="views" /> </div>
