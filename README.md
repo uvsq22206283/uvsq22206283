@@ -1,35 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Ayoub%20Ourimi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Master%20DataScale%20%7C%20Big%20Data%20%26%20AI&descAlignY=60&descSize=20&fontColor=2E91E6"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Ayoub%20Ourimi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Master%20DataScale%20%7C%20Data%20%26%20AI&descAlignY=60&descSize=20&fontColor=2E91E6"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=37BCF7&center=true&vCenter=true&width=435&lines=Future+Data+Engineer;Master+DataScale+Student;Python+%26+Java+Developer;Always+Learning..." alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=37BCF7&center=true&vCenter=true&width=435&lines=Master+DataScale+Student;Data+Engineer+in+making;Python+%26+Java+Developer;Always+Learning..." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="center">
+    <td width="55%" valign="center">
       <h3 align="left">👨‍💻 About Me</h3>
       <br>
       <ul>
-        <li>🎓 <strong>Master Student:</strong> Currently specializing in <strong>Large-Scale Data Management (DataScale)</strong> at <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>.</li>
+        <li>🎓 <strong>Master Student:</strong> Specialized in <strong>Large-Scale Data Management (DataScale)</strong> at <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>.</li>
         <br>
         <li>🔭 <strong>Focus:</strong> Building scalable data pipelines, Big Data architectures, and NLP models.</li>
         <br>
-        <li>🧠 <strong>Mindset:</strong> I love turning raw messy data into clean, actionable insights.</li>
+        <li>🧠 <strong>Mindset:</strong> Turning complex data into actionable insights.</li>
         <br>
         <li>⚡ <strong>Offline:</strong> Music digger 🎵, World traveler ✈️, and Sports addict ⚽.</li>
       </ul>
       <br>
-      <a href="mailto:viaourimi@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-      <a href="https://www.linkedin.com/in/ayoub-ourimi/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="mailto:viaourimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+      <a href="https://www.linkedin.com/in/ayoub-ourimi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     </td>
-    <td width="50%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/dummy/giphy.gif" data-canonical-src="https://media.giphy.com/media/L1R1TVThqceKoySOtF/giphy.gif" width="100%" src="https://media.giphy.com/media/L1R1TVThqceKoySOtF/giphy.gif" alt="coding" />
+    <td width="45%" valign="center" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="coding" />
     </td>
   </tr>
 </table>
@@ -42,27 +40,28 @@
 <div align="center">
   <table>
     <tr style="border: none;">
-      <td align="center" width="120" style="border: none;"><strong>Core</strong></td>
+      <td align="center" width="120" style="border: none;"><strong>Languages</strong></td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=python,java,rust,c" />
+        <img src="https://skillicons.dev/icons?i=python,java,rust,r,bash" />
       </td>
     </tr>
     <tr style="border: none;">
       <td align="center" width="120" style="border: none;"><strong>Data & AI</strong></td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=r,pytorch,tensorflow,sklearn,pandas" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas" />
       </td>
     </tr>
     <tr style="border: none;">
       <td align="center" width="120" style="border: none;"><strong>Databases</strong></td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase" />
+        <img src="https://skillicons.dev/icons?i=mysql" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
       </td>
     </tr>
     <tr style="border: none;">
       <td align="center" width="120" style="border: none;"><strong>Tools</strong></td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=git,docker,linux,latex,bash" />
+        <img src="https://skillicons.dev/icons?i=git,docker,linux,latex" />
       </td>
     </tr>
   </table>
@@ -70,7 +69,6 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
