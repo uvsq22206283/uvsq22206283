@@ -52,4 +52,4 @@ print("Turning data into insights! 🚀")
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsq22206283&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF7&fire=37BCF7&currStreakLabel=37BCF7" alt="Streak" /> </div>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=uvsq22206283&label=Profile%20Views&color=0e75b6&style=flat-square"
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=uvsq22206283&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" /> </div>
