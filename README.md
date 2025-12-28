@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Ayoub%20Ourimi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Master%20DataScale%20%7C%20Data%20%26%20AI&descAlignY=60&descSize=20&fontColor=2E91E6"/>
-</div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=37BCF7&center=true&vCenter=true&width=435&lines=Master+DataScale+Student;Data+Engineer+in+making;Python+%26+Java+Developer;Always+Learning..." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Ayoub%20Ourimi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Master%20DataScale%20%7C%20Data%20%26%20AI&descAlignY=60&descSize=20&fontColor=2E91E6"/>
 </div>
 
 <br/>
