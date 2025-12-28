@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Ayoub%20Ourimi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Master%20DataScale%20%7C%20Data%20Engineer&descAlignY=60&descSize=20&fontColor=2E91E6"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=37BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ayoub+Ourimi;Master+DataScale+Student;Future+Data+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
