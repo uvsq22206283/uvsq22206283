@@ -7,57 +7,42 @@
 </div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="center">
-      <h2>👋 About Me</h2>
-      
-      <ul>
-        <li>🎓 <strong>Master Student:</strong> Currently studying <strong>DataScale (Large-Scale Data Management)</strong> at <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>.</li>
-        <br>
-        <li>🔭 <strong>Current Focus:</strong> I am working on <strong>Cybercrime Data Analysis</strong> and <strong>LLMs (Natural Language Processing)</strong>.</li>
-        <br>
-        <li>💡 <strong>I like to explore:</strong> Big Data technologies, Machine Learning algorithms, and Backend development.</li>
-        <br>
-        <li>⚡ <strong>Fun fact:</strong> When I'm not coding, I love <strong>Music, Traveling, and Sports</strong>.</li>
-        <br>
-        <li>📫 <strong>Contact:</strong> <a href="mailto:viaourimi@gmail.com">viaourimi@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="center">
+
+<h2>👋 About Me</h2>
+
+- 🎓 **Master Student:** Currently studying **DataScale (Large-Scale Data Management)** at [Paris-Saclay University](https://www.universite-paris-saclay.fr/).
+<br>
+- 🔭 **Current Focus:** Working on **Cybercrime Data Analysis** and **LLMs (NLP)**.
+<br>
+- 💡 **I like to explore:** Big Data, ML algorithms, and Backend dev.
+<br>
+- ⚡ **Fun fact:** I love **Music, Traveling, and Sports**.
+<br>
+- 📫 **Contact:** <a href="mailto:viaourimi@gmail.com">viaourimi@gmail.com</a>
+
+</td>
+<td width="40%" valign="center" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+</tr>
 </table>
 
----
+<br>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" /><br>R
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,rust,r,bash" /><br><br>
+  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20PLSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="46" />
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="46" />
+</div>
 
 <br>
 
@@ -75,22 +60,14 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsq22206283&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=2E91E6&fire=2E91E6&currStreakLabel=2E91E6" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsq22206283&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=uvsq22206283&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E91E6&icon_color=2E91E6" alt="Ayoub's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uvsq22206283&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E91E6&icon_color=2E91E6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=uvsq22206283&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uvsq22206283&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Langs" />
 </div>
 
 <br>
