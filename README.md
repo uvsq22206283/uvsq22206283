@@ -24,21 +24,12 @@ class DataEngineer:
         ]
 
     def lifestyle(self):
-        return ["Music 🎵", "Travel ✈️", "Sport ⚽"]
+        return ["Music 🎧", "Travel ✈️", "Sport ⚽"]
 
 me = DataEngineer()
 print("Turning data into insights! 🚀")
 ```
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Music" width="35" height="35" />
-    &nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Travel" width="35" height="35" />
-    &nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" alt="Sport" width="35" height="35" />
-  </div>
-  
   <br>
-  
   <div align="left">
     <a href="mailto:viaourimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/ayoub-ourimi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -49,7 +40,7 @@ print("Turning data into insights! 🚀")
 </td>
 </tr> </table>
 
-<h2 align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%2520and%2520places/Rocket.png" alt="Rocket" width="30" height="30" /> Technical Arsenal </h2>
+<h2 align="center">🚀 Technical Arsenal</h2>
 
 <div align="center"> <table> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Languages</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=python,java,rust,r,bash" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Data & AI</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Databases</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Tools</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=git,docker,linux,latex" /> </td> </tr> </table> </div>
 
@@ -58,11 +49,11 @@ print("Turning data into insights! 🚀")
 
 <img src="https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </div>
 
-<h2 align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Natural%2520environment/High%2520Voltage.png" alt="High Voltage" width="30" height="30" /> GitHub Activity </h2>
+<h2 align="center">⚡ GitHub Activity</h2>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsq22206283&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF7&fire=37BCF7&currStreakLabel=37BCF7" alt="Streak" /> </div>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="cat vibe" />
+<div align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/hQKiGV6MG8WmsHg2QX/giphy.gif" width="150" alt="bongo cat" />
 
 
 <img src="https://komarev.com/ghpvc/?username=uvsq22206283&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" /> </div>
