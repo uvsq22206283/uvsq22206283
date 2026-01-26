@@ -30,7 +30,7 @@ class DataEngineer:
 
 me = DataEngineer()
 print("Turning data into insights! 🚀")
-```
+``
 <br>
   <div align="left">
     <a href="mailto:viaourimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
