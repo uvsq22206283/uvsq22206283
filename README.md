@@ -10,7 +10,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3 align="left">👨‍💻 About Me</h3>
-      
+      
 ```python
 class DataEngineer:
     def __init__(self):
@@ -29,7 +29,8 @@ class DataEngineer:
         return ["Music 🎧", "Travel ✈️", "Sport ⚽"]
 
 me = DataEngineer()
-print("Turning data into insights! 🚀")
+print("Turning data into insights! 🚀") 
+```
 
 <br>
   <div align="left">
