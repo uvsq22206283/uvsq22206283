@@ -50,9 +50,6 @@ print("Turning data into insights! 🚀") 
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" /> </div>
-
 <h2 align="center">⚡ GitHub Activity</h2>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsq22206283&theme=tokyonight&hide_border=true&background=0D1117&ring=37BCF7&fire=37BCF7&currStreakLabel=37BCF7" alt="Streak" /> </div>
