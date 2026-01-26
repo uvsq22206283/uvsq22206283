@@ -20,12 +20,12 @@ class DataEngineer:
         
     def get_focus(self):
         return [
-            "Scalable Data Pipelines", 
-            "AWS Cloud Computing ☁️",
+            "AWS Cloud Architecture ☁️",
+            "Scalable Pipelines", 
             "NLP & LLMs"
         ]
 
-    def hobbies(self):
+    def lifestyle(self):
         return {
             "Listening": "Le Monde du Cloud 🎧",
             "Sports": "Football ⚽",
@@ -33,11 +33,11 @@ class DataEngineer:
         }
 
 me = DataEngineer()
-print("Building the future of data! 🚀")
+print("Turning data into insights! 🚀")
 ```
 <h2 align="center">🚀 Technical Arsenal</h2>
 
-<div align="center"> <table> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Languages</strong></td> <td align="center" style="border: none;"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,rust,bash" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Cloud & Infra</strong></td> <td align="center" style="border: none;"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,linux,git" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Data & AI</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Databases</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" /> </td> </tr> </table> </div>
+<div align="center"> <table> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Languages</strong></td> <td align="center" style="border: none;"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,rust,bash" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Cloud & Data</strong></td> <td align="center" style="border: none;"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,tensorflow,sklearn,pandas" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Databases</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" /> </td> </tr> <tr style="border: none;"> <td align="center" width="120" style="border: none;"><strong>Tools</strong></td> <td align="center" style="border: none;"> <img src="https://skillicons.dev/icons?i=git,linux" /> </td> </tr> </table> </div>
 
 <h2 align="center">⚡ GitHub Activity</h2>
 
