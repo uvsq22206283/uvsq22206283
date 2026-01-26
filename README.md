@@ -10,7 +10,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3 align="left">👨‍💻 About Me</h3>
-      
+
 ```python
 class DataEngineer:
     def __init__(self):
@@ -50,7 +50,7 @@ print("Turning data into insights! 🚀") 
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </div>
+<img src="https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" /> </div>
 
 <h2 align="center">⚡ GitHub Activity</h2>
 
@@ -59,5 +59,3 @@ print("Turning data into insights! 🚀") 
 <img src="https://komarev.com/ghpvc/?username=uvsq22206283&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" /> </div>
 
 
-J'aimerais que tu me fasse un truc clean ajoute le fait que j'ecoute le monde du cloud de plus enleve latex docker  comme image power bi aussi
-Change rien niveau format juste ajoute aws je suis entrain d'apprendre ca et enleve les truc inutiles 
