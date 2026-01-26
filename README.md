@@ -36,7 +36,7 @@ print("Turning data into insights! 🚀") 
 <br>
   <div align="left">
     <a href="mailto:viaourimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/ayoub-ourimi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/ayoub-ourimi-7517812aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </div>
 </td>
 <td width="45%" valign="center" align="center">
