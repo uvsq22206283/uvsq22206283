@@ -22,7 +22,8 @@ class DataEngineer:
         return [
             "Big Data Architectures", 
             "NLP & LLMs", 
-            "Scalable Pipelines"
+            "Scalable Pipelines",
+            "AWS Cloud Computing ☁️3           
         ]
 
     def lifestyle(self):
